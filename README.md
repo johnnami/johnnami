@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Batista Gianini Neto
 
-- 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no IFSP - Campûs Bragança Paulista
+- 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no IFSP - Campûs Bragança Paulista.
 - 🌱 Estudando HTML, CSS, Typescript, Java e Python.
 
 <div align="center">
